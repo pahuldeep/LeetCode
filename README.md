@@ -24,6 +24,6 @@ Embark on your DSA mastery journey with the questions and solutions in this pers
 
 [Guide Java Questions]()
 
-[Guide C++ Questions](https://github.com/pahuldeep/LeetCode/blob/e3d349c2955e267bdd11074e75f8085e575a606f/C%2B%2B%20Solutions/~C%2B%2B%20Ouestions.md)
+[Guide C++ Questions](https://github.com/pahuldeep/LeetCode/blob/1da11fad49fcfb942661a2411a33a5b01057420e/C%2B%2B%20Solutions/~C%2B%2B%20Ouestions.md)
 
 Happy Coding! 🚀
