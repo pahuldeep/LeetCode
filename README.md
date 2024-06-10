@@ -22,7 +22,7 @@ Dedicated to your practice journey, focusing on NeetCode and LeetCode questions.
 
 Embark on your DSA mastery journey with the questions and solutions in this personalized repository. Embrace challenges, learn new methodologies, and elevate your coding skills with our exclusive practice resource.
 
-[Guide C++ Questions](https://github.com/pahuldeep/LeetCode/blob/1da11fad49fcfb942661a2411a33a5b01057420e/C%2B%2B%20Solutions/~C%2B%2B%20Ouestions.md)
+[Guide C++ Questions](https://github.com/pahuldeep/LeetCode/blob/45bf734f9e887c3d14668c0b6e9c0826f2e97ec3/C%2B%2B%20Solutions/~C%2B%2B%20Ouestions.md)
 
 [Guide Java Questions]()
 
